@@ -45,9 +45,9 @@ export default function Register() {
                     <h1>Register</h1>
                     <p>Register yourself, hop on the platform and let people help your Organization.</p>
 
-                    <Link className="back-link"to="/register">
+                    <Link className="back-link"to="/">
                     <FiArrowLeft size={16} color="#E02041"/>
-                    I don't have an account yet.
+                    Go back to our home page to Log in.
                     </Link>
 
                 </section>
