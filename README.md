@@ -1,4 +1,17 @@
 <!-- header section -->
+## Deployed on Heroku / Backend (API) and Frontend
+[Be The Hero - Frontend ](https://dashboard.heroku.com/apps/frontend-be-the-hero) and [Backend (API)](https://backend-be-the-hero-project.herokuapp.com);
+
+## About the App
+The purpose it's to Non-Profitable-Organizations to register and list cases in the platform. Asking for money, voluntary work, etc. 
+The users would use the mobile app to see the cases and contact the ong using the email or whatsapp. Both functions are integrated and working. See the video on Youtube.
+
+## How to use it?
+
+You can or register and use the id provided at the end of registration to log in as a Ong or use this dummy log in : 651698b6
+
+PS: You may enter the backend login before using the frontend since Heroku token deactivate the backend after 48 hours.
+
 <p align="center">
   <img  alt="Be The Hero" src="https://trello-attachments.s3.amazonaws.com/5eab8674a86a907c46dbf222/1197x273/3a628bc6202989d1dbc47b749b1505ee/logo-events-maker.jpg" height="auto" /><br/>
   <span>Non Profitable Organization Platform Developed using <b> Javascript / React / React-Native / SQLite and Knex </b></span><br/>
@@ -12,18 +25,9 @@
   </a>
 </p>
 
-## Deployed on Heroku / Backend (API) and Frontend
-[Be The Hero - Frontend ](https://dashboard.heroku.com/apps/frontend-be-the-hero) and [Backend (API)](https://backend-be-the-hero-project.herokuapp.com);
 
-## About the App
-The purpose it's to Non-Profitable-Organizations to register and list cases in the platform. Asking for money, voluntary work, etc. 
-The users would use the mobile app to see the cases and contact the ong using the email or whatsapp. Both functions are integrated and working. See the video on Youtube.
 
-## How to use it?
 
-You can or register and use the id provided at the end of registration to log in as a Ong or use this dummy log in : 651698b6
-
-PS: You may enter the backend login before using the frontend since Heroku token deactivate the backend after 48 hours.
 
 ## Team
 
