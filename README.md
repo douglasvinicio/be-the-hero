@@ -13,7 +13,6 @@ You can or register and use the id provided at the end of registration to log in
 PS: You may enter the backend login before using the frontend since Heroku token deactivate the backend after 48 hours.
 
 <p align="center">
-  <img  alt="Be The Hero" src="https://trello-attachments.s3.amazonaws.com/5eab8674a86a907c46dbf222/1197x273/3a628bc6202989d1dbc47b749b1505ee/logo-events-maker.jpg" height="auto" /><br/>
   <span>Non Profitable Organization Platform Developed using <b> Javascript / React / React-Native / SQLite and Knex </b></span><br/>
   <span>Running on <b>Safari, Chrome, Firefox and Mobile </b>. </span><br/>
 </p>
@@ -21,13 +20,8 @@ PS: You may enter the backend login before using the frontend since Heroku token
 <!-- show case/gif section -->
 <p align="center">
     <img alt="be-the-hero-gif" height="300" src="https://media.giphy.com/media/TgVT1KCHSLfWqeIaKQ/giphy.gif" />
-    <img alt="be-the-hero-gif" height="300" src="https://media.giphy.com/media/ftHc1LORpugpPJdUv8/giphy.gif" />
   </a>
 </p>
-
-
-
-
 
 ## Team
 
