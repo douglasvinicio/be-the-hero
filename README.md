@@ -3,25 +3,21 @@
 [Be The Hero - Frontend ](https://dashboard.heroku.com/apps/frontend-be-the-hero) and [Backend (API)](https://backend-be-the-hero-project.herokuapp.com);
 
 ## About the App
-The purpose it's to Non-Profitable-Organizations to register and list cases in the platform. Asking for money, voluntary work, etc. 
-The users would use the mobile app to see the cases and contact the ong using the email or whatsapp. Both functions are integrated and working. See the video on Youtube.
-
-## How to use it?
-
-You can or register and use the id provided at the end of registration to log in as a Ong or use this dummy log in : 651698b6
-
-PS: You may enter the backend login before using the frontend since Heroku token deactivate the backend after 48 hours.
-
 <p align="center">
   <span>Non Profitable Organization Platform Developed using <b> Javascript / React / React-Native / SQLite and Knex </b></span><br/>
   <span>Running on <b>Safari, Chrome, Firefox and Mobile </b>. </span><br/>
+  <span>The purpose it's to Non-Profitable-Organizations to register and list cases in the platform. Asking for money, voluntary work, etc. </span>
+  <span>The users would use the mobile app to see the cases and contact the ong using the email or whatsapp. Both functions are integrated and working. See the video on Youtube.</span>
 </p>
 
-<!-- show case/gif section -->
-<p align="center">
-    <img alt="be-the-hero-gif" height="300" src="https://media.giphy.com/media/TgVT1KCHSLfWqeIaKQ/giphy.gif" />
-  </a>
-</p>
+## How to use it?
+
+<span>You can or register and use the id provided at the end of registration to log in as a Ong or use this dummy log in :<b>651698b6</b></span>
+
+PS: You may enter the backend login before using the frontend since Heroku token deactivate the backend after 48 hours.
+
+
+
 
 ## Team
 
